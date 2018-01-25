@@ -13,8 +13,8 @@ return array
 
 }
 function whileLoop(n){
-
-  while( n > 0){
+ var nn = n;
+  while( nn > 0){
     console.log(--number)
   }
   return "done"
