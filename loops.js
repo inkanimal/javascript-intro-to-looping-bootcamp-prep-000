@@ -13,9 +13,9 @@ return array
 
 }
 function whileLoop(n){
- var nn = n;
-  while( nn > 0){
-    console.log(--number)
+
+  while( n > 0){
+    console.log(--n)
   }
   return "done"
 }
